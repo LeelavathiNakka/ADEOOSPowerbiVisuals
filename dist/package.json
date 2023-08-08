@@ -1,0 +1,17 @@
+{
+		"version": "1.0.0.0",
+		"author": {"name":"leelavathi","email":"leelavathi.nnb@gmail.com"},
+		"resources": [
+			{
+				"resourceId": "rId0",
+				"sourceType": 5,
+				"file": "resources/IntelligentHubPortal4F3B1D4EC3AC4878BA83B09523149C97.pbiviz.json"
+			}
+		],
+		"visual": {"name":"IntelligentHubPortal","displayName":"IntelligentHubPortal","guid":"IntelligentHubPortal4F3B1D4EC3AC4878BA83B09523149C97","visualClassName":"Visual","version":"1.0.0.0","description":"IntelligentHubPortal","supportUrl":"https://your-website.com/support","gitHubUrl":""},
+		"metadata": {
+			"pbivizjson": {
+				"resourceId": "rId0"
+			}
+		}
+	}
