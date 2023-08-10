@@ -1,0 +1,197 @@
+.titleText {
+  font-size: x-small;
+  padding-top: 10px;
+  padding-left: 5px;
+  padding-right: 30px;
+  color: #649bd2;
+  font-weight: bold;
+}
+.titleIcon2 {
+  padding-left: 15px;
+}
+.top_section {
+  display: flex;
+  text-align: center;
+  padding-bottom: 3px;
+}
+.topicsIcons {
+  padding-top: 2px;
+  padding-left: 15px;
+}
+.TopicsDiv {
+  display: flex;
+}
+.hotTopicsTitle {
+  display: flex;
+  font-size: medium;
+  padding-top: 18px;
+}
+.topicsText {
+  font-size: medium;
+  padding: 10px;
+  padding-top: 7px;
+  font-family: sans-serif;
+}
+.hotTopicsText1 {
+  display: flex;
+  font-size: xx-small;
+}
+.hotTopicsText2 {
+  display: flex;
+}
+.loadMoreStyle {
+  font-size: small;
+  padding: 15px;
+  color: #685dbe;
+}
+.prioritiesText {
+  padding-left: 20px;
+  font-size: smaller;
+  padding-top: 10px;
+}
+.directionsIcon {
+  padding-left: 90px;
+}
+.buttonText {
+  font-size: smaller;
+  color: #7c8189;
+  background-color: #080519;
+  border-radius: 5px;
+  padding-left: 7px;
+  padding-right: 7px;
+  margin-right: 3px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-left: 10px;
+  margin-bottom: 5px;
+}
+.priorityButtons {
+  font-size: smaller;
+  color: #7c8189;
+  background-color: #080519;
+  border-radius: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-right: 35px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-left: 15px;
+  margin-bottom: 5px;
+}
+.topicsIcon {
+  padding-left: 10px;
+  padding-right: 35px;
+}
+.topicsText {
+  padding-left: 15px;
+  padding-top: 5px;
+}
+.hotTopicsText {
+  padding-left: 15px;
+  font-size: small;
+  padding-top: 10px;
+}
+.flameCurvedIcon {
+  padding-left: 80px;
+}
+.loadMoreStyle {
+  font-size: small;
+  padding-left: 17px;
+  color: #685dbe;
+}
+.horizontalLineStyle {
+  padding-left: 15px;
+}
+.sidebar {
+  background: #17234f;
+  color: #fff;
+  height: 100vh;
+  width: 200px;
+  transition: all 0.5s;
+}
+.prioritiesDiv {
+  display: flex;
+}
+.container {
+  display: flex;
+}
+main {
+  width: 100%;
+  padding: 20px;
+}
+.logo {
+  font-size: 15px;
+  padding-left: 10px;
+}
+.bars {
+  display: flex;
+  font-size: 18px;
+  margin-left: 40px;
+}
+.link:hover {
+  color: aliceblue;
+  transition: all 0.5s;
+}
+.active {
+  color: aliceblue;
+}
+.icon,
+.link_text {
+  font-size: 15px;
+}
+.button_style {
+  color: #7c8189;
+  font-size: small;
+  background-color: #080519;
+}
+span:hover {
+  background-color: #20126e;
+}
+.aligning {
+  display: grid;
+}
+.imageAligning {
+  padding-top: 10px;
+}
+.HotTopicsDiv {
+  display: flex;
+  padding-bottom: 1px;
+}
+.HotTopicsDiv img {
+  padding-left: 40px;
+}
+.HotTopicsDiv span {
+  padding-left: 50px;
+  font-size: 14px;
+}
+.StylingText2 {
+  font-size: 12px;
+  color: #7c8189;
+  background-color: #080519;
+  height: 20px;
+  padding-top: 4px;
+  padding: 2px;
+  margin-bottom: 4px;
+  text-align: justify;
+  border-radius: 2px;
+}
+.spacingText {
+  padding-left: 50px;
+}
+.StylingText3 {
+  font-size: 12px;
+  color: #7c8189;
+  background-color: #080519;
+  height: 20px;
+  padding: 3px;
+  margin-bottom: 4px;
+  text-align: justify;
+  border-radius: 2px;
+}
+.magnifyingGlass {
+  padding-left: 65px;
+}
+.flameCurved {
+  padding-left: 40px;
+}
+
